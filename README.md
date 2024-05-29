@@ -52,7 +52,7 @@ A feladat során egy olyan alkalmazást kell elkészíteni, ahol egy call center
 
 8. Gombok programozása.
 
-9.Dokumentáció illetve a prezentáció elkészítése
+9. Dokumentáció illetve a prezentáció elkészítése
 ***
 
 ## **Követelmények**
