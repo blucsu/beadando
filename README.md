@@ -1,7 +1,7 @@
 # Placeholder Text
 
 
-##### Oah Márk , Csonka Zoltán , Bojsza Bulcsú 
+##### Oláh Márk , Csonka Zoltán , Bojsza Bulcsú 
 
 
 ## **Feladat**
