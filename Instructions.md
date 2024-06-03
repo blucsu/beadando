@@ -25,4 +25,5 @@
 
 ****
 **Zárásként**
-1.Ha beszeretné zárni a progtramot akkor a jobb felső sarokban lévő x gombbal megteheti
+
+1. Ha beszeretné zárni a progtramot akkor a jobb felső sarokban lévő x gombbal megteheti
