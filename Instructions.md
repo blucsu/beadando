@@ -22,3 +22,7 @@
 2. Nyomjon a Fájl név melletti mezőbe és gépelje be azt, hogy mit szeretne a fájl nevének. 
 3. Nyomjon a To PDF melletti választási mezőre és válassza ki , hogy a Bemenő vagy Kimenő vagy mind a kettőt szeretné e exportáni PDF formátumba.
 4. Legvégül nyomjon a To PDF gombra ha át szeretné exportáni PDF formátumba a fájlt. 
+
+****
+**Zárásként**
+1.Ha beszeretné zárni a progtramot akkor a jobb felső sarokban lévő x gombbal megteheti
