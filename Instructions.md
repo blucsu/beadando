@@ -13,7 +13,7 @@
 2. Nyomjon a Hívott melletti mezőbe és gépelje be azt, hogy ki volt a hívott fél.
 3. Nyomjon az Időpont melletti mezőbe és gépelje be azt , hogy mikor történt a hívás.
 4. Nyomjon a Típus melletti mezőbe és válassza ki a a lehetőségek közül a hívás típusát.
-5. Nyomjon a Save gombra, hogy a megadott adatai elmentésre kerüljenek.
+5. Nyomjon a "Mentés" gombra, hogy a megadott adatai elmentésre kerüljenek.
 
 ****
 **Export rész**
@@ -26,7 +26,7 @@
 ****
 **Zárásként**
 
-1. Ha beszeretné zárni a progtramot akkor az x gombbal megteheti
+1. Ha beszeretné zárni a progtramot akkor a "Kilépés" gombbal megteheti
 
 
 ![Kepernyokep_2024-06-02_201235](https://github.com/blucsu/beadando/assets/171423601/91e7fd18-f84f-4d7c-812b-d3a221ca998f)
